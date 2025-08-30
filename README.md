@@ -1,4 +1,3 @@
-# LH_CD_DANIEL
 # Desafio Cientista de Dados
 # Desafio Indicium — Previsão de Nota IMDB
 
