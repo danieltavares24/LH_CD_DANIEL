@@ -6,7 +6,7 @@ Desafio Cientista de Dados
 
 Este projeto tem como objetivo prever a nota IMDB de um filme com base em suas características, utilizando dados históricos e técnicas de machine learning.
 
-# Como Instalar e Executar o Projeto
+# Instalar e Executar o Projeto
 
 # 1. Clone o repositório ou baixe os arquivos
 
