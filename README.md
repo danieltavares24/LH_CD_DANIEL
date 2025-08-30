@@ -22,7 +22,10 @@ pip install -r requirements.txt
 
 ....
 
-Relatório desenvolvido por:
-Daniel Tavares de França
-Recife – PE  
-30 de Agosto de 2025
+---
+
+📬 **Relatório desenvolvido por:**  
+**Daniel Tavares de França**  
+📍 Recife – PE  
+📅 30 de Agosto de 2025
+
