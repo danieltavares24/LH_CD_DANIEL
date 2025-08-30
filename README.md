@@ -8,7 +8,7 @@ Este projeto tem como objetivo prever a nota IMDB de um filme com base em suas c
 
 # Instalar e Executar o Projeto
 
-# 1. Clone o repositório ou baixe os arquivos
+# Clone o repositório ou baixe os arquivos
 
 ```bash
 
