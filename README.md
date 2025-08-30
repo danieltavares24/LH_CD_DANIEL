@@ -20,7 +20,7 @@ cd LH_CD_DANIEL
 
 pip install -r requirements.txt
 
-******************************
+*******************************
 
 Relatório desenvolvido por:
 Daniel Tavares de França
